@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.list-group .list-group-item {
+    padding-left: .75rem;
+}
+
+.list-group .list-group-item i {
+    margin-right: .25rem;
+}
+
+.list-second-level .list-group-item {
+    padding-left: 1.5rem;
+}
+
+.list-third-level .list-group-item {
+    padding-left: 3rem;
+}
+
+.list-group li.active a {
+    color: #fff;
+}
+
+.list-group-item {
+    border:none;
+}
+.card {
+    border: 1px solid rgb(111 180 197 / 25%);
+    background-color: #fff;
+}
+nav {
+    width: 100%;
+}
+.pagination {
+    justify-content: center;
+}
+a {
+    color: #54aeaf;
+}
+
+.list-group-item.active, .page-item.active .page-link  {
+    background-color: #55a8bb;
+    border-color: #55a8bb;
+}
